@@ -1,8 +1,8 @@
 # Release Notes
 
-## Development
+## v1.3.1 - October 28th, 2022
 
-[Commits](https://github.com/wycats/handlebars.js/compare/v1.3.0...master)
+- Add dist in repository
 
 ## v1.3.0 - January 1st, 2014
 - [#690](https://github.com/wycats/handlebars.js/pull/690) - Added support for subexpressions ([@machty](https://api.github.com/users/machty))
