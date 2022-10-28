@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.3.2 - October 28th, 2022
+
+- Fix versioning in all files
+
 ## v1.3.1 - October 28th, 2022
 
 - Add dist in repository
